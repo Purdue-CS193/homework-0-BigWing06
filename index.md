@@ -1,5 +1,5 @@
 # Joshua's First CS193 Homework
-<br />
+---
 ## Favorite Things about CS193:
 - The TA's seem friendly
 - Will be a more laid back course
